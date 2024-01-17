@@ -79,3 +79,5 @@ function drawMemo(memo) {
 
     return li;
 }
+
+getData();
