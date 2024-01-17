@@ -49,7 +49,7 @@ createButton.addEventListener("click", function (event) {
         saveValue.id = transform.length + 1;
         transform.push(saveValue);
 
-        localStorage.setItem("memo", JSON.stringif(transform));
+        localStorage.setItem("memo", JSON.stringify(transform));
     }
 
     window.location.href = "../index.html";
