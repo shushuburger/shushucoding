@@ -108,3 +108,5 @@ function renderMemo(data) {
     description.value = data.description;
     content.textContent = data.content;
 }
+
+renderPage();
