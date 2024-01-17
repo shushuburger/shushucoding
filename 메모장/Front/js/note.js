@@ -1,3 +1,5 @@
+renderPage();
+
 const createButton = document.querySelector(".create-btn");
 const modifyButton = document.querySelector(".modify-btn");
 
